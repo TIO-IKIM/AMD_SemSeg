@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 ## Relabeled data
-You can find a relabeled version of Chiu et al.'s data [here](https://drive.google.com/drive/folders/1fe142pLOqKLe_vOUOHxMv-V11chLWCXP?usp=share_link).
+You can find a relabeled version of Chiu et al.'s data as well as model checkpoints [here](https://drive.google.com/drive/folders/1fe142pLOqKLe_vOUOHxMv-V11chLWCXP?usp=share_link).
 
 Please find the original raw images [here](https://people.duke.edu/~sf59/Chiu_BOE_2014_dataset.htm).
 
